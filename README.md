@@ -23,3 +23,9 @@
   Fonte: https://censo2010.ibge.gov.br/sinopse/index.php?dados=4
 
   Acesso em: 12/05/2020
+
+- Casos confirmados e óbitos por Covid-19 nos estados brasileiros: [DT_PAINEL_COVIDBR_20200511.xlsx](DT_PAINEL_COVIDBR_20200511.xlsx)
+
+  Fonte: https://covid.saude.gov.br/
+
+  Acesso em: 12/05/2020
