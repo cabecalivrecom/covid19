@@ -17,3 +17,9 @@
   Fonte: https://ourworldindata.org/coronavirus
 
   Acesso em: 12/05/2020
+
+- População dos estados brasileiros (censo de 2010): [IBGE Censo 2010.pdf](IBGE Censo 2010.pdf)
+
+  Fonte: https://censo2010.ibge.gov.br/sinopse/index.php?dados=4
+
+  Acesso em: 12/05/2020
