@@ -29,3 +29,5 @@
   Fonte: https://covid.saude.gov.br/
 
   Acesso em: 12/05/2020
+
+  **Observação:** infelizmente, na versão mais recente dessa planilha faltam dados dos estados. Assim sendo, vou usar a versão que obtive em 09/05/2020 do mesmo _site_: [arquivo_geral.csv](arquivo_geral.csv).
