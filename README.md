@@ -6,3 +6,8 @@
 
   Acesso em: 12/05/2020
 
+- População dos países, inclusive do Brasil (números de 2018): [API_SP.POP.TOTL_DS2_en_csv_v2_988606.csv](API_SP.POP.TOTL_DS2_en_csv_v2_988606.csv)
+
+  Fonte: https://data.worldbank.org/indicator/sp.pop.totl
+
+  Acesso em: 12/05/2020
